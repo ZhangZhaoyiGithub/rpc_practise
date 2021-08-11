@@ -82,6 +82,7 @@ public class ZkRegister {
             // 他理論上不應該改變
 // 是基於文件版本理論進行的
             // 測是共同是否執行
+            // 測試mixed
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
