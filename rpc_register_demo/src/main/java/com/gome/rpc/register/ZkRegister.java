@@ -81,6 +81,7 @@ public class ZkRegister {
 // git reset HEAD -- readme.txt
             // 他理論上不應該改變
 // 是基於文件版本理論進行的
+            // 測是共同是否執行
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
