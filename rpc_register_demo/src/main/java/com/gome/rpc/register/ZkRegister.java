@@ -78,7 +78,8 @@ public class ZkRegister {
             // 延时阻塞
 //            Thread.sleep (Long.MAX_VALUE);
             Thread.sleep (2000);
-
+// git reset HEAD -- readme.txt
+            // 他理論上不應該改變
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
