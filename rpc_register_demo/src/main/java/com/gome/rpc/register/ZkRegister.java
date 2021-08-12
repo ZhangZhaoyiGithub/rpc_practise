@@ -53,6 +53,7 @@ public class ZkRegister {
         ZkRegister zkRegister = new ZkRegister ();
         zkRegister.initZK ();
         ZooKeeper zooKeeper = zkRegister.getZooKeeper ();
+        // remote modify by user6
 //        try {
 //            String result = zooKeeper.create ("/rpc29", "rpc_register".getBytes (), ZooDefs.Ids.OPEN_ACL_UNSAFE, CreateMode.PERSISTENT);
 //            LOG.info ("the zookeeper create result is {}", result);
@@ -87,11 +88,9 @@ public class ZkRegister {
             // soft stage
             // soft not add
             // detached test
-            // remote modify by user4
+                                    // remotee modify by user5
             // detached test2
-            // remote modify by user3
             // detached test03
-            // remotee modify by user2
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
