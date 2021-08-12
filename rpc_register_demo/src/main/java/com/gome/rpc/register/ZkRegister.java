@@ -85,6 +85,7 @@ public class ZkRegister {
             // soft not add
             // detached test
             // detached test2
+            // remote modify by user3
             // detached test03
             // remotee modify by user2
         } catch (InterruptedException e) {
