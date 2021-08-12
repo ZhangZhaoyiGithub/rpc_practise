@@ -81,6 +81,7 @@ public class ZkRegister {
 // git reset HEAD -- readme.txt
             // 他理論上不應該改變
             // detached test
+            // detached test2
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
