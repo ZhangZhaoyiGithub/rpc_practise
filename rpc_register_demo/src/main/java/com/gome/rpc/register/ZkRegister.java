@@ -83,6 +83,12 @@ public class ZkRegister {
 // 是基於文件版本理論進行的
             // 測是共同是否執行
             // 測試mixed
+            // soft
+            // soft stage
+            // soft not add
+            // detached test
+            // detached test2
+            // detached test03
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
