@@ -84,11 +84,9 @@ public class ZkRegister {
             // soft stage
             // soft not add
             // detached test
-            // remote modify by user4
+                                    // remotee modify by user5
             // detached test2
-            // remote modify by user3
             // detached test03
-            // remotee modify by user2
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
