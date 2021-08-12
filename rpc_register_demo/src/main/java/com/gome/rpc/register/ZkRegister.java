@@ -80,6 +80,7 @@ public class ZkRegister {
             Thread.sleep (2000);
 // git reset HEAD -- readme.txt
             // 他理論上不應該改變
+            // detached test
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
