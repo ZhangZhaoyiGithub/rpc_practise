@@ -83,6 +83,9 @@ public class ZkRegister {
             // soft
             // soft stage
             // soft not add
+            // detached test
+            // detached test2
+            // detached test03
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
