@@ -53,6 +53,7 @@ public class ZkRegister {
         ZkRegister zkRegister = new ZkRegister ();
         zkRegister.initZK ();
         ZooKeeper zooKeeper = zkRegister.getZooKeeper ();
+        // remote modify by user6
 //        try {
 //            String result = zooKeeper.create ("/rpc29", "rpc_register".getBytes (), ZooDefs.Ids.OPEN_ACL_UNSAFE, CreateMode.PERSISTENT);
 //            LOG.info ("the zookeeper create result is {}", result);
