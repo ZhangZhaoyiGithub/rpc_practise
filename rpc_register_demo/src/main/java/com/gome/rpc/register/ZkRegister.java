@@ -81,6 +81,12 @@ public class ZkRegister {
             Thread.sleep (2000);
 // git reset HEAD -- readme.txt
             // 他理論上不應該改變
+            // fetch origin branch_name
+            // logic step 1 modify
+            // logic setp 2 modify
+            // logic step 3 modify
+            // git commit --amend filename
+            // git commit --amend -m ""
 // 是基於文件版本理論進行的
             // 測是共同是否執行
             // 測試mixed
