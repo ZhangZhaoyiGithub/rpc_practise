@@ -86,6 +86,7 @@ public class ZkRegister {
             // detached test
             // detached test2
             // detached test03
+            // remotee modify by user2
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
