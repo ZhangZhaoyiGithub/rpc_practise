@@ -82,6 +82,7 @@ public class ZkRegister {
             // 他理論上不應該改變
             // detached test
             // detached test2
+            // detached test03
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
