@@ -81,6 +81,9 @@ public class ZkRegister {
             Thread.sleep (2000);
 // git reset HEAD -- readme.txt
             // 他理論上不應該改變
+// 是基於文件版本理論進行的
+            // 測是共同是否執行
+            // 測試mixed
             // soft
             // soft stage
             // soft not add
@@ -88,6 +91,7 @@ public class ZkRegister {
                                     // remotee modify by user5
             // detached test2
             // detached test03
+            // 測試 git rebase
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
