@@ -91,6 +91,7 @@ public class ZkRegister {
                                     // remotee modify by user5
             // detached test2
             // detached test03
+            // 測試 git rebase
         } catch (InterruptedException e) {
             e.printStackTrace ();
         }
