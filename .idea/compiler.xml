@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="rpc_client_demo" target="1.5" />
       <module name="rpc_practise" target="1.5" />
-      <module name="rpc_register_demo" target="1.5" />
+      <module name="rpc_register_demo" target="1.8" />
       <module name="rpc_service_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
